@@ -1,0 +1,44 @@
+#cont-one {
+	background-color: pink;
+	position: relative;
+	border-radius: 9%;
+	height: 1200px;
+	width: 510px;
+	margin: 0 auto;
+	border: solid black 4px;
+}
+
+.input-two {
+	background-color: white;
+	position: relative;
+	height: 60px;
+	width: 360px;
+    top: 70px;
+    left: 35px;
+    border: solid black 4px;
+}
+
+#enter-three {
+	background-color: white;
+	position: relative;
+	height: 60px;
+	width: 60px;
+	top: 70px;
+    left: 407px;
+    border: solid black 4px;
+}
+
+#temp-four {
+	background-color: none;
+	top: 40px;
+	position: relative;
+    /*border: solid green 4px;*/
+    height: 60px;
+    width: 480px;
+    left: 10px;
+}
+
+#shop {
+	width: 354px;
+    height: 54px;
+}
